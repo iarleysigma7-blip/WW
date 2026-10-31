@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">CR Coach</string>
+    <string name="grant_overlay">1. Conceder permissão de overlay</string>
+    <string name="grant_notification">2. Conceder notificações</string>
+    <string name="start_capture">3. Iniciar captura</string>
+    <string name="status_idle">Parado</string>
+    <string name="status_running">Capturando…</string>
+    <string name="notif_channel_name">Captura de tela</string>
+    <string name="notif_channel_desc">Serviço de captura para sugestões</string>
+    <string name="notif_title">CR Coach ativo</string>
+    <string name="notif_text">Analisando a tela em segundo plano</string>
+</resources>
